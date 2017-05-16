@@ -1,0 +1,23 @@
+{
+  "name": "gallery-front",
+  "version": "0.0.1",
+  "description": "Front project for Gallery web site",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "gallery",
+    "pictures",
+    "videos",
+    "angular"
+  ],
+  "author": "Nicolas DOVRAN <nicolas.dovran@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~1.2.0",
+    "grunt-cli": "~1.2.0",
+    "grunt-concat-css": "^0.3.2",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^2.3.0"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "gallery-front",
+  "authors": [
+    "Nicolas Dovran <nicolas.dovran@gmail.com>"
+  ],
+  "description": "Gallery front project for Gallery web site",
+  "main": "",
+  "keywords": [
+    "gallery",
+    "pictures",
+    "videos"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.6.0",
+    "jquery": "1.10.2",
+    "bootstrap": "3.0.3",
+    "wow": "matthieua/wow#1.0.2",
+    "animate.css": "^3.5.2",
+    "blueimp-gallery": "^2.25.0",
+    "jquery-touchswipe": "mattbryson/touchswipe-jquery-plugin#^1.6.18",
+    "respond": "scottjehl/respond#^1.4.2"
+  }
+}
